@@ -1,0 +1,7 @@
+1.npm init
+2.entry point must be "app.js"
+3.npm install nodemon
+4.under scripts ,  "start":"nodemon app.js"
+5.npm start - to run the backend (app.js)
+6.express js install - npm install express
+7.install mongoose - to connect with the database - npm install mongoose
